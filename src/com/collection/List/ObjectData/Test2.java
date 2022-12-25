@@ -12,6 +12,7 @@ public class Test2 {
         al.add(00);
         al.add(10.34);
         System.out.println(al.toString());
+        System.out.println(al);
 
         for (Object o:al) {
             if (o instanceof Employee)
