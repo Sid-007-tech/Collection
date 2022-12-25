@@ -29,6 +29,8 @@ public class Test2 {
             }
 
             // to avoid this type casting of type safety we have a generic concept
+
+            //we will be taking help of collections to get typeSafe Data
         }
 
     }
