@@ -1,6 +1,7 @@
 package com.collection.List.Sorting.ComparableExamples;
 
-import org.jetbrains.annotations.NotNull;
+import com.sun.istack.internal.NotNull;
+
 
 public class Emp implements Comparable<Emp>{
     int eid;
