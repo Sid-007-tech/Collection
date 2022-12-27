@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="157b07e7-ebfa-4db9-873c-a6e21d438282" name="Changes" comment="Commit of various methods in ArrayList">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26-12-2022_11_52_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26-12-2022_11_52__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection/Cursors/CursorsExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection/Cursors/IteratorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection/Cursors/ListIteratorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection/List/ArraysAsList.java" afterDir="false" />
+    <list default="true" id="157b07e7-ebfa-4db9-873c-a6e21d438282" name="Changes" comment="Cursor Examples">
+      <change afterPath="$PROJECT_DIR$/src/com/collection/List/Sorting/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,33 +53,7 @@
       <recent name="com.collection.List" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ListIteratorExample">
-    <configuration name="AddContainRemoveExamole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection.List.AddContainRemoveExamole" />
-      <module name="Collection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.collection.List.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArraysAsList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection.List.ArraysAsList" />
-      <module name="Collection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.collection.List.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test3">
     <configuration name="CursorsExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.collection.Cursors.CursorsExample1" />
       <module name="Collection" />
@@ -128,13 +93,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.List.StackExample" />
+      <module name="Collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.collection.List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.List.Sorting.Test3" />
+      <module name="Collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.collection.List.Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.StackExample" />
         <item itemvalue="Application.ListIteratorExample" />
         <item itemvalue="Application.IteratorExample" />
         <item itemvalue="Application.CursorsExample1" />
-        <item itemvalue="Application.ArraysAsList" />
-        <item itemvalue="Application.AddContainRemoveExamole" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672035671443</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Cursor Examples">
+      <created>1672074409155</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672074409155</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,6 +196,7 @@
     <MESSAGE value="new comment" />
     <MESSAGE value="Commit on Branch -&quot;Branch_For_Checking_01&quot;" />
     <MESSAGE value="Commit of various methods in ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit of various methods in ArrayList" />
+    <MESSAGE value="Cursor Examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cursor Examples" />
   </component>
 </project>
