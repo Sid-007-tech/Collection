@@ -12,6 +12,7 @@ public class MapExample {
         hm.put(33,"cc");
         hm.put(55,"ff");
         hm.put(11,"aa");
+        hm.put(55,"ghjj");
         System.out.println(hm);
 
        Set<Integer> hs = hm.keySet();
